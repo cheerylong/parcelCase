@@ -1,13 +1,15 @@
 # parcelCase
 	
 [parcel](http://www.css88.com/doc/parcel/getting_started.html)出来也有段时间了，最近活不太多。看到[这篇文章](http://www.css88.com/archives/9187)简单尝试了一下上面的例子。
+分别包含简单的demo,使用react,vue,typescript的几个例子。
 
 ## 尝试
-
+	
 	git clone https://github.com/bailicangdu/vue2-elm.git  
-	cd parcelCase && yarn add 
+	cd parcelCase && yarn 
 	npm run demo (vue react ts) 
 	npm run buildDemo (buildVue buildReact buildTs)
+	open http://localhost:1234 
 
 ## 结论
 
