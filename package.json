@@ -10,7 +10,9 @@
     "react": "parcel ./reactDemo/index.html -d ./reactDist",
     "buildReact": "parcel build ./reactDemo/index.html -d ./reactDist",
     "vue": "parcel ./vueDemo/index.html -d ./vueDist",
-    "buildVue": "parcel build ./vueDemo/index.html -d ./vueDist"
+    "buildVue": "parcel build ./vueDemo/index.html -d ./vueDist",
+    "ts": "parcel ./ts/index.html -d ./tsDist",
+    "buildTs": "parcel build ./ts/index.html -d ./tsDist"
   },
   "author": "",
   "license": "ISC",
