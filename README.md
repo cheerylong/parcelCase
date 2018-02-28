@@ -4,7 +4,7 @@
 
 ## 尝试
 	
-	git clone https://github.com/bailicangdu/vue2-elm.git  
+	git clone https://github.com/cheerylong/parcelCase.git
 	cd parcelCase && yarn 
 	npm run demo (vue react ts) 
 	npm run buildDemo (buildVue buildReact buildTs)
